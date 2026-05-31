@@ -13,7 +13,7 @@ Libraries — Pandas, Matplotlib, Seaborn, Scikit-learn
 
 Dataset
 
-Source: Iranian Telecom Customer Churn Dataset (Kaggle)
+Source: Iranian Telecom Customer Churn Dataset
 Size: 2,850 rows × 14 columns
 Features: Customer demographics, usage behavior, complaints, subscription details, customer value, churn status
 
