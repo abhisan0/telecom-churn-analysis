@@ -73,6 +73,6 @@ Monitor customers with declining usage patterns early
 Model Performance
 
 ModelAccuracyLogistic Regression 89%
-Random Forest 89%
+Random Forest 95%
 
 Note: Due to class imbalance (85% active vs 15% churned), recall for the churn class is moderate. Future improvement: apply SMOTE or class weighting.
